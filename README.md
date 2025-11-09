@@ -1,2 +1,16 @@
-# Portfolio bot
-A Telegram bot where you can find my portfolio. Still in development.
+# Бот-портфолио
+## Бот в телеграм, где расположено моё портфолио.
+**Всё что нужно вам обо мне знать сосредоточено здесь**
+В данный момент содержит:
+Я
+Проекты
+Гитхаб
+
+## Возможно обновление в будущем
+Т.к. проект и вправду полезен лично для меня, я ~~уверен~~,что его не заброшу и буду развивать.
+
+## Скриншоты
+
+<img width="434" height="140" alt="изображение" src="https://github.com/user-attachments/assets/97725859-bc88-4387-a9bf-8f736d836f21" /> <img width="313" height="119" alt="изображение" src="https://github.com/user-attachments/assets/5cb3a39f-c76f-47aa-a5f5-17087532e9be" />
+
+
